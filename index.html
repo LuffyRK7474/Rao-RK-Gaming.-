@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Rao RK Gaming - Roblox Blox Fruits</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #1e1e1e;
+            color: white;
+        }
+        .navbar {
+            background-color: #f20a0a;
+              color: white;
+              text-shadow: 2px 2px 4px #000000;
+        }
+        .hero-section {
+           
+            color: #red;
+            padding: 0 0;
+            text-align: center;
+			background-image: url("logo.jpeg");
+		    background-size: 100% 100%;
+			
+        }
+        .card {
+            background-color: #333;
+            color: #fff;
+        }
+        .card-title {
+            color: #1e90ff;
+        }
+        footer {
+            background-color: #00008B;
+            padding: 10px 0;
+            text-align: center;
+            color: white;
+        }
+        .container{
+              color: white;
+                text-shadow: 2px 2px 4px #000000;
+       }
+		.container2{
+		text-align: center;
+		height: 100px;
+		width: 100%;
+
+          color: red;
+            text-shadow: 2px 2px 4px #000000;
+		}
+        .container3{
+            background-color: #000;
+            color: #f20a0a;
+            text-shadow: 2px 2px 4px #000000;
+        }
+        .Discord{
+            height: 900px;
+            color: #f20a0a;
+            text-align: center;
+        }
+           .button2 {
+      background-color: #007bff; /* Blue theme */
+      color: white;
+      padding: 12px 24px;
+      font-size: 16px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      transition: background-color 0.3s ease, box-shadow 0.3s ease, transform 0.2s ease;
+    }
+
+    /* Hover effect */
+    .button2:hover {
+      background-color: #0056b3; /* Darker blue */
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+      transform: translateY(-2px);
+    }
+
+    /* Focus effect */
+    .button2:focus {
+      outline: none;
+      box-shadow: 0 0 0 4px rgba(0, 123, 255, 0.5);
+    }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#about">About Rao RK Gaming</a>
+				 <a class="navbar-brand" href="#games">Games We Play</a>
+                  <a class="navbar-brand" href="#discord">Discord Server</a>
+					  <a class="navbar-brand" href="#contact">contact</a>
+        </div>
+    </nav>
+    <section class="hero-section">
+        <div class="container2">
+        </div>
+    </section>
+    <section id="about" class="py-5">
+        <div class="container">
+            <h2 class="text-center mb-4">About Rao RK Gaming</h2>
+            <div class="row">
+                <div class="col-md-6">
+                    <h4>Who is Rao RK?</h4>
+                    <p>Rao RK Gaming is a YouTuber and gamer known for his expertise in Roblox, especially in the game Blox Fruits. With engaging gameplay and tutorials, Rao RK has built a strong fanbase and is loved by many players!</p>
+                </div>
+                <div class="col-md-6">
+                    <h4>Content Overview</h4>
+                    <p>Rao RK Gaming's YouTube channel offers gaming tips, Blox Fruits guides, updates, and much more. Join the community and level up your game with his awesome content!</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="games" class="bg-dark text-white py-5">
+        <div class="container">
+            <h2 class="text-center mb-4">Games We Play</h2>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <img src="roblox.jpeg"" class="card-img-top" alt="Roblox">
+                        <div class="card-body">
+                            <h5 class="card-title">Roblox</h5>
+                            <p class="card-text">Roblox is a global online platform where users can play and create games. Rao RK Gaming focuses on this platform, especially the game Blox Fruits!</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card mb-4">
+                        <img src="blox.jpeg" class="card-img-top" alt="Blox Fruits">
+                        <div class="card-body">
+                            <h5 class="card-title">Blox Fruits</h5>
+                            <p class="card-text">Blox Fruits is a popular Roblox game where players can become powerful and fight enemies using special powers. Rao RK Gaming offers tips to dominate this game!</p>
+                        </div>
+                    </div>
+                </div> 
+                </div>
+            </div>
+        </div>
+    </section>
+     <section id="discord" class="py-5">
+        <div class="container3">
+            <h2 class="text-center mb-4" style="color:red;">RAO RK GAMING(DISCORD COMMUNITY)</h2>
+                <div class="Discord">
+                    <p>
+
+<H1>━━━━━━━━━━━━━━━━━━━━</H1>
+
+<h2 style="color:orange;">INDIA'S BIGGEST BLOX FRUITS SERVER!</h2>
+
+<p style="color:orange;">Join our Discord Server To Level Up 
+Your Gaming Experience , Collect In-Game Items ,
+Make Friends , Let's Build An Awesome
+Blox Fruits Gaming Community Together!</p>
+<h1 style="color:orange;">━━━━━━━━━━━━━━━━━━━━</h1>
+ <h1 style="color:white;" >What We Offer</h1>
+
+<h2 style="color:white;">| Free Mirage Hunts</h2>
+<h2 style="color:white;">| Blox Fruits Players to Hang Out</h2>
+<h2 style="color:white;">| Sea Event Hunts</h2>
+<h2 style="color:white;">| Active Staff Team*</h2>
+<h2 style="color:white;">| VIP Perks</h2>
+<h2 style="color:white;">| Booster Perks</h2>
+<h2 style="color:white;">| Level Perks</h2>
+<h2 style="color:white;">| Giveaways</h2>
+<h2 style="color:white;">| Exciting Events</h2>
+
+<h1 style="color:white;">━━━━━━━━━━━━━━━━━━━━</h1>
+
+<h2 style="color:blue;">Join Us Now and Level Up Your Gaming Experience!* </h2>
+
+
+
+<h1 style="color:blue;">Discord Link</h1>
+  <button class="button2" onclick="redirect()">Join RAO RK Gaming Discord</button>
+
+  <script>
+    function redirect() {
+      window.location.href = "https://discord.gg/raorkgaming";
+    }
+  </script>
+                </div>
+        </div>
+    </section>
+
+    <section id="contact" class="py-5">
+        <div class="container text-center">
+            <h2>Contact Rao RK Gaming</h2>
+            <p>Have questions or want to collaborate? Reach out to us below:</p>
+            <form>
+                <div class="mb-3">
+                    <input type="email" class="form-control" id="email" placeholder="Enter your email">
+                </div>
+                <div class="mb-3">
+                    <textarea class="form-control" id="message" rows="4" placeholder="Enter your message"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Send Message</button>
+            </form>
+        </div>
+    </section>
+    <footer>
+			<p>Created by APPUWAD5957Y and LUFFY RK</p>
+        <p>&copy; 2025 Rao RK Gaming | All Rights Reserved</p>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
+</body>
+</html>
